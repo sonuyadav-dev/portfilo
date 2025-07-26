@@ -35,17 +35,26 @@ Aug 2024 – Present
 systems 
 ● Organized sessions on electronics teardown, PCB housing, and 3D mechanical design
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 My Projcet IMG/Vid:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="sonu yadav projcets/IMG-20250722-WA0006.jpg" />][Projects]
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="sonu yadav projcets/IMG-20250722-WA0006.jpg" />][Projects]
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="sonu yadav projcets/IMG-20250722-WA0005.jpg" />][Projects]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="sonu yadav projcets/IMG-20250722-WA0002.jpg" />][Projects]
+
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="sonu yadav projcets/IMG-20250722-WA0006.jpg" />][Projects]
+
+
+
+
+
+
+
+
+
+[instagram]: 
+[linkedin]: 
 
 
 <h2>TECHNICAL SKILLS  :</h2>
