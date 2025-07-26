@@ -1,31 +1,39 @@
 # portfilo
-<h1>Hi, I'm Sonu! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Sonu! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/"> Mechanical/electrical/thermal analysis </a>, 
+<h2>👨‍💻 PROJECTS :</h2>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+- <b>Thermal Performance Comparison of IC Packages</b>
+  - Self-Initiated Project | July 2025 – Present 
+● Modeled QFN, BGA, and Flip Chip packages in SolidWorks to analyze geometric 
+differences 
+● Estimated thermal resistance and heat flow using datasheet values and hand 
+calculations 
+● Created Excel-based graphs comparing heat dissipation profiles under simulated 
+workloads 
+● Demonstrated understanding of thermal paths, die attach impact, and package-level limitations 
+- <b>Mechanical Analysis Lab Simulation</b>
+  - Academic Project | Spring 2025 
+● Conducted mechanical testing on polymer-metal composites under variable thermal 
+loading 
+● Used regression and Excel tools to evaluate failure points and deformation 
+characteristics 
+● Applied design of experiments (DoE) to analyze material response patterns  <b><i></b></i>
+- <b>Modular Sensor Housing for Embedded Platform</b>
+  -Texas State Robotics Club | Aug 2024 – May 2025
+● Designed and prototyped sensor casing for an embedded robotics project 
+● Considered thermal dissipation, vibration damping, and mechanical reliability in housing 
+design 
+● Led a team of 6 students through iterative prototyping and material selection
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+<h2>📺LEADERSHIP & INVOLVEMENT  </h2>
+
+Founder & President – Texas State Robotics Club 
+Aug 2024 – Present 
+● Established and led interdisciplinary team focused on robotics, sensors, and embedded 
+systems 
+● Organized sessions on electronics teardown, PCB housing, and 3D mechanical design
 
 <h2> 🤳 Connect with me:</h2>
 
