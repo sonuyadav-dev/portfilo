@@ -1,5 +1,5 @@
 # portfilo
-<h1>Hi, I'm Sonu! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/"> Mechanical/electrical/thermal analysis </a>, 
+<h1>Hi, I'm Sonu! <br/> <a href="https://github.com/joshmadakor1">mechanical engineering student</a> <a href="https://www.linkedin.com/in/joshmadakor/">at texas state </a>
 <h2>👨‍💻 PROJECTS :</h2>
 
 - <b>Thermal Performance Comparison of IC Packages</b>
