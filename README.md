@@ -47,6 +47,25 @@ systems
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
 
+
+<h2>TECHNICAL SKILLS  :</h2>
+● CAD/Modeling: SolidWorks, Siemens NX, AutoCAD 
+● Simulation: ANSYS Workbench (basic), COMSOL (learning), Excel-based 
+thermal/stress models 
+● Programming: Arduino (C/C++), Python (basic scripting for calculations & graphing) 
+● Analysis & Tools: Excel (DoE, regression, graphing), PowerPoint, Word, Minitab 
+● Other: Mechanical prototyping, design optimization, root cause analysis
+
+
+<h2>EDUCATION :</h2>
+Bachelor of Science in Mechanical Engineering 
+Texas State University – San Marcos, TX 
+Expected Graduation: May 2026 | GPA: 3.6 
+● Relevant Coursework: Materials Science, Mechanics of Materials, Heat and 
+Thermodynamics, Engineering Design, Statistics 
+● Member – American Society of Mechanical Engineers (ASME) 
+● Founder – Texas State Robotics Club
+
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
