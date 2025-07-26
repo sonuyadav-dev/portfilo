@@ -1,5 +1,7 @@
 # portfilo
-<h1>Hi, I'm Sonu! <br/> <a href="https://github.com/joshmadakor1">mechanical engineering student</a> <a href="https://www.linkedin.com/in/joshmadakor/">at texas state </a>
+<h1>Hi, I'm Sonu! <br/> <p>Mechanical Engineer | <strong> At Texas State University</strong>, <em>Enthusiast</em>.</p>
+<p></p>
+
 <h2>👨‍💻 PROJECTS :</h2>
 
 - <b>Thermal Performance Comparison of IC Packages</b>
